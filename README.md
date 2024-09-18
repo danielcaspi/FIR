@@ -5,8 +5,11 @@ LPF with 100MHz sampling clk.
 
 
 Input sin signals with: 
+
 1)2MHz
+
 2)30MHz
+
 Waveform:
 
 
