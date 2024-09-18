@@ -126,6 +126,6 @@ begin
 end
 
           
-assign data_out = $signed(sum3[35:14]);   
+assign data_out = sum3[35:20];   
             
 endmodule
