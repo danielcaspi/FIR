@@ -1,8 +1,8 @@
+
 # FIR
 LPF with 100MHz sampling clk.
 
 Using pipelining principles to eliminate unnecessary bits, optimizing the FIR filter's performance with minimal bits.
-
 1.1.14 floating point format.
 
 
@@ -10,10 +10,8 @@ Using pipelining principles to eliminate unnecessary bits, optimizing the FIR fi
 
 
 Input sin signals with: 
-
-1)2MHz
-
-2)30MHz
+- 2MHz
+- 30MHz
 
 Waveform:
 
