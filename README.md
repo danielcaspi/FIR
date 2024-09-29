@@ -3,6 +3,7 @@
 LPF with 100MHz sampling clk.
 
 Using pipelining principles to eliminate unnecessary bits, optimizing the FIR filter's performance with minimal bits.
+
 1.1.14 floating point format.
 
 
